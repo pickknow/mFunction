@@ -1,0 +1,16 @@
+{
+  "name": "mfunction",
+  "version": "1.0.0",
+  "description": "functional programming contoiner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "functional",
+    "programming"
+  ],
+  "author": "jason",
+  "license": "ISC"
+}
